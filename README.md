@@ -1,7 +1,7 @@
 <h1 align="center">
     Servidor Node com Fastify
 </h1>
-<p align="center">Servidor node criado com fastify e neon</p>
+<p align="center">Servidor node criado com fastify e neont</p>
 
 <p align="center">
  <a href="#sobre-o-projeto">Sobre o Projeto</a> •
